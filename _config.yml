@@ -1,0 +1,28 @@
+name: The PhD Journey
+favicon: null
+layout_spectrum: 0.43118033139035106
+typography_spectrum: 0.07285795616917312
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5222573042847216
+  lightness: 0.13912704214453697
+  saturation: 0.3759537029545754
+  rhythmicContrast: 0.34546436578966677
+purpose: []
