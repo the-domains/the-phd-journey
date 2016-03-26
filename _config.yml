@@ -1,28 +1,40 @@
-name: The PhD Journey
-favicon: null
-layout_spectrum: 0.43118033139035106
-typography_spectrum: 0.07285795616917312
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3759537029545754
+  brandStrength: 0.3125
+  rhythmicContrast: 0.3454643657896668
   brandColors:
     - '#ffffff'
     - '#1a171c'
     - '#676b6c'
     - '#c1b8a7'
     - '#b32537'
-  brandStrength: 0.3125
-  lightness: 0.13912704214453697
-  saturation: 0.3759537029545754
-  rhythmicContrast: 0.34546436578966677
-purpose: []
+  lightness: 0.139127042144537
+typography_spectrum: 0.6362007
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: The PhD Journey
