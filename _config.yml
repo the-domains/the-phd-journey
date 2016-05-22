@@ -1,4 +1,4 @@
-layout_spectrum: 1
+name: The PhD Journey
 opengraph:
   image: null
   type: null
@@ -9,32 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.3759537029545754
-  brandStrength: 0.3125
-  rhythmicContrast: 0.3454643657896668
-  brandColors:
-    - '#ffffff'
-    - '#1a171c'
-    - '#676b6c'
-    - '#c1b8a7'
-    - '#b32537'
+  brandStrength: 0.1661046
   lightness: 0.139127042144537
-typography_spectrum: 0.6362007
+  brandColors:
+    - '#00030D'
+    - '#7186A5'
+    - '#32332D'
+    - '#B8B8AC'
+    - '#800113'
+  rhythmicContrast: 0.3454643657896668
+typography_spectrum: 0
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 1
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: The PhD Journey
